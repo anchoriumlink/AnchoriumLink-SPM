@@ -1,5 +1,8 @@
 # Anchorium Link iOS SDK
 
+[![Swift Package Index](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fanchoriumlink%2FAnchoriumLink-SPM%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/anchoriumlink/AnchoriumLink-SPM)
+[![Swift Package Index](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fanchoriumlink%2FAnchoriumLink-SPM%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/anchoriumlink/AnchoriumLink-SPM)
+
 The **Anchorium Link SDK** makes it easy to integrate **persistent AR anchors** into your iOS apps.  
 With Anchorium Link, you can store, share, and resolve anchors across sessions and devices — powered by our cloud-based platform.  
 
