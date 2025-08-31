@@ -1,0 +1,6 @@
+framework module anchoriumlinkframework {
+  umbrella header "anchoriumlinkframework.h"
+  export *
+
+  module * { export * }
+}
